@@ -6,7 +6,7 @@
 
 
 
-    Semester A, 2022, COSC2634 Web Application For India Fight Data Analysis 
+    Semester A, 2022, COSC2634 Web Application for Indian domestic flight ticket data analysis
     
     <SGS_Group 7>
 
